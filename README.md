@@ -1,12 +1,12 @@
 # Hibernate Demo
 
-A Java Maven project demonstrating Hibernate ORM for performing database operations using MySQL.
+A Java Maven project demonstrating Hibernate ORM for performing database operations using postgresql.
 
 ## 🚀 Technologies Used
 - Java
 - Hibernate
 - Maven
-- MySQL
+- Posgresql
 - JDBC
 
 ## 📌 Features
@@ -27,7 +27,7 @@ pom.xml
    git clone https://github.com/manikanta0921/Hibernate.git
    
 2. Open the project in Eclipse.
-3. Update the MySQL username and password in the Hibernate configuration file.
+3. Update the postgresql username and password in the Hibernate configuration file.
 4. Run the project.
 
 ## 👨‍💻 Author
